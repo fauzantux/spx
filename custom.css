@@ -1,0 +1,12 @@
+.btn-custom {
+    color: #fff !important;
+    background-color: rgb(151, 11, 151) !important;
+}
+
+.btn-custom:hover {
+    background-color: rgb(133, 13, 133) !important;
+}
+
+.lehos {
+    color: green !important;
+}
